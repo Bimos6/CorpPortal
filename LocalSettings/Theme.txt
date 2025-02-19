@@ -1,1 +1,1 @@
-WindowColorRed
+WindowColorBlue
